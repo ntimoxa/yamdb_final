@@ -6,14 +6,16 @@ The application image is available on Docker Hub: https://hub.docker.com/r/ntimo
 ![yamdb_workflow](https://github.com/ntimoxa/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
+## Example of Usage
+- To see how it works, open http://84.201.177.30/api/v1/titles/
+
+
 ## Features
 - CRUD for titles
 - CRUD for reviews and comments
 - CRUD for genres and categories
 - Get reviews for titles
 - Get comments for reviews
-
-
 
 
 ## Technologies
