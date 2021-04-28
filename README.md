@@ -7,7 +7,7 @@ The application image is available on Docker Hub: https://hub.docker.com/r/ntimo
 
 
 ## Example of Usage
-- To see how it works, open http://84.201.177.30/api/v1/titles/
+- To see how it works, open http://familynetwork.ml/api/v1/
 
 
 ## Features
