@@ -6,10 +6,6 @@ The application image is available on Docker Hub: https://hub.docker.com/r/ntimo
 ![yamdb_workflow](https://github.com/ntimoxa/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
-## Example of Usage
-- To see how it works, open http://familynetwork.ml/api/v1/
-
-
 ## Features
 - CRUD for titles
 - CRUD for reviews and comments
